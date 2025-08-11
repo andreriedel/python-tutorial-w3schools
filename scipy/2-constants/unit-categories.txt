@@ -1,0 +1,15 @@
+The units are placed under these categories:
+
+Metric
+Binary
+Mass
+Angle
+Time
+Length
+Pressure
+Volume
+Speed
+Temperature
+Energy
+Power
+Force
